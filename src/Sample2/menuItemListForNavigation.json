@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "name": "Personal Information",
+            "parentUrlLink": "/personalInformation",
+            "id": 1
+        },
+        {
+            "name": "Medical Education",
+            "parentUrlLink": "/medicalEducation",
+            "id": 2
+        },
+        {
+            "name": "Training - Internship",
+            "parentUrlLink": "/training/internship",
+            "id": 3
+        },
+        {
+            "name": "Training - Residency",
+            "parentUrlLink": "/training/residency",
+            "id": 4
+        },
+        {
+            "name": "Training - Fellowship",
+            "parentUrlLink": "/training/fellowship",
+            "id": 5
+        },
+        {
+            "name": "Board Certifications",
+            "parentUrlLink": "/certifications/boardCertifications",
+            "id": 6
+        },
+        {
+            "name": "Other Certifications",
+            "parentUrlLink": "/certifications/otherCertifications",
+            "id": 7
+        },
+        {
+            "name": "Certification Exams",
+            "parentUrlLink": "/certifications/certificationExams",
+            "id": 8
+        },
+        {
+            "name": "Certifications - Licensure",
+            "parentUrlLink": "/certifications/licensure",
+            "id": 9
+        },
+        {
+            "name": "Work History - Hospital Affiliation",
+            "parentUrlLink": "/workhistory/hospitalAffiliation",
+            "id": 10
+        },
+        {
+            "name": "Work History - Practice Experience",
+            "parentUrlLink": "/workhistory/practiceExperience",
+            "id": 11
+        },
+        {
+            "name": "Work History - Gaps in Work History",
+            "parentUrlLink": "/workhistory/gapsinWorkHistory",
+            "id": 12
+        },
+        {
+            "name": "References",
+            "parentUrlLink": "/references",
+            "id": 13
+        },
+        {
+            "name": "Malpractice Claims History",
+            "parentUrlLink": "/malpracticeinsurance/malpracticeClaimsHistory",
+            "id": 14
+        },
+        {
+            "name": "Malpractice Carriers",
+            "parentUrlLink": "/malpracticeinsurance/malpracticeCarriers",
+            "id": 15
+        },
+        {
+            "name": "Attestation Questions - Disciplinary Action Questions",
+            "parentUrlLink": "/attestationquestions/disciplinaryActionQuestions",
+            "id": 16
+        },
+        {
+            "name": "Attestation Questions - Disclosure Questions",
+            "parentUrlLink": "/attestationquestions/disclosureQuestions",
+            "id": 17
+        },
+        {
+            "name": "Review & Sign",
+            "parentUrlLink": "/reviewAndSign",
+            "id": 18
+        }
+    ]
+}

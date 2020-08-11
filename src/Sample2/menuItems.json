@@ -1,0 +1,142 @@
+{
+    "data": [
+        {
+            "name": "Personal Information",
+            "isParentClickable": true,
+            "parentUrlLink": "/personalInformation",
+            "children": [],
+            "id": 1
+        },
+        {
+            "name": "Medical Education",
+            "isParentClickable": true,
+            "parentUrlLink": "/medicalEducation",
+            "children": [],
+            "id": 2
+        },
+        {
+            "name": "Training",
+            "isParentClickable": false,
+            "parentUrlLink": "",
+            "id": 3,
+            "children": [
+                {
+                    "name": "Internship",
+                    "link": "/training/internship",
+                    "id": 4
+                },
+                {
+                    "name": "Residency",
+                    "link": "/training/residency",
+                    "id": 5
+                },
+                {
+                    "name": "Fellowship",
+                    "link": "/training/fellowship",
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Certifications",
+            "isParentClickable": false,
+            "parentUrlLink": "",
+            "id": 7,
+            "children": [
+                {
+                    "name": "Board Certifications",
+                    "link": "/certifications/boardCertifications",
+                    "id": 8
+                },
+                {
+                    "name": "Other Certifications",
+                    "link": "/certifications/otherCertifications",
+                    "id": 9
+                },
+                {
+                    "name": "Certification Exams",
+                    "link": "/certifications/certificationExams",
+                    "id": 10
+                },
+                {
+                    "name": "Licensure",
+                    "link": "/certifications/licensure",
+                    "id": 11
+                }
+            ]
+        },
+        {
+            "name": "Work History",
+            "isParentClickable": false,
+            "parentUrlLink": "",
+            "id": 12,
+            "children": [
+                {
+                    "name": "Hospital Affiliation",
+                    "link": "/workhistory/hospitalAffiliation",
+                    "id": 13
+                },
+                {
+                    "name": "Practice Experience",
+                    "link": "/workhistory/practiceExperience",
+                    "id": 14
+                },
+                {
+                    "name": "Gaps in Work History",
+                    "link": "/workhistory/gapsinWorkHistory",
+                    "id": 15
+                }
+            ]
+        },
+        {
+            "name": "References",
+            "isParentClickable": true,
+            "parentUrlLink": "/references",
+            "id": 16,
+            "children": []
+        },
+        {
+            "name": "Malpractice Insurance",
+            "isParentClickable": false,
+            "parentUrlLink": "",
+            "id": 17,
+            "children": [
+                {
+                    "name": "Malpractice Claims History",
+                    "link": "/malpracticeinsurance/malpracticeClaimsHistory",
+                    "id": 18
+                },
+                {
+                    "name": "Malpractice Carriers",
+                    "link": "/malpracticeinsurance/malpracticeCarriers",
+                    "id": 19
+                }
+            ]
+        },
+        {
+            "name": "Attestation Questions",
+            "isParentClickable": false,
+            "parentUrlLink": "",
+            "id": 20,
+            "children": [
+                {
+                    "name": "Disciplinary Action Questions",
+                    "link": "/attestationquestions/disciplinaryActionQuestions",
+                    "id": 21
+                },
+                {
+                    "name": "Disclosure Questions",
+                    "link": "/attestationquestions/disclosureQuestions",
+                    "id": 22
+                }
+            ]
+        },
+        {
+            "name": "Review & Sign",
+            "isParentClickable": true,
+            "parentUrlLink": "/reviewAndSign",
+            "id": 23,
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Home",
+            "url": "/home"
+        },
+        {
+            "id": 2,
+            "name": "Rupesh",
+            "url": "/rvhora"
+        },
+        {
+            "id": 3,
+            "name": "Others",
+            "children": [
+                {
+                    "id": 4,
+                    "name": "Kishori",
+                    "url": "/kishori"
+                },
+                {
+                    "id": 5,
+                    "name": "Sumit",
+                    "url": "/sumit"
+                }
+            ]
+        }
+    ]
+}
