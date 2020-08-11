@@ -34,7 +34,7 @@ import menuNavigation from './Sample2/menuItems.json'
 import menuListforNavigation from './Sample2/menuItemListForNavigation.json'
 import NavigationButton from './Sample2/NavigationButton'
 import { withRouter } from 'react-router-dom';
-
+import CustomCircularProgress from './Sample2/circularProgress/CustomCircularProgress'
 
 const styles = (theme) => ({
   root: {
@@ -133,7 +133,7 @@ class App extends Component {
                 <Paper classes={{ root: classes.sidebarRoot }}>
                   <Grid container classes={{ root: classes.sidePanelContainerRoot }}>
                     <Grid item xs={12} classes={{ root: classes.circularProgressHeader }}>
-                      Circular Progress
+                      <CustomCircularProgress />
 
                     </Grid>
                     <Grid item xs={12} classes={{ root: classes.helpPanelLinks }}>
